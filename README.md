@@ -1,0 +1,2 @@
+# WindowsRuntimeOcr
+resizingTest
